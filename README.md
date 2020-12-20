@@ -1,2 +1,2 @@
 # Martian-Birthday
-General Assembly API Project
+General Assembly API / React - Project 2
